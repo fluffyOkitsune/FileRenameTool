@@ -1,5 +1,7 @@
+import window.FRT_Window;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+		new FRT_Window();
     }
 }
